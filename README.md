@@ -3,6 +3,7 @@
 - [The CDK Book](https://thecdkbook.com/)
 - [The GraphQL Guide](https://graphql.guide/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Just JavaScript](https://justjavascript.com/)
 
 # Courses
 - [Serverless Visually Explained](https://serverless-visually-explained.com/)
