@@ -10,6 +10,7 @@
 - [Three.js Journey](https://threejs-journey.com/)
 - [Learn PWA](https://web.dev/learn/pwa/)
 - CS 253 Web Security: [videos](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-), [slides and additional materials](https://web.stanford.edu/class/cs253/)
+- [Rust for JavaScript Developers](https://rustforjs.dev)
 
 # React libs
 - [fresnel - SSR friendly media queries](https://github.com/artsy/fresnel)
