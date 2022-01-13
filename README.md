@@ -8,6 +8,7 @@
 # Courses
 - [Serverless Visually Explained](https://serverless-visually-explained.com/)
 - [Three.js Journey](https://threejs-journey.com/)
+- [Learn PWA](https://web.dev/learn/pwa/)
 
 # React libs
 - [fresnel - SSR friendly media queries](https://github.com/artsy/fresnel)
