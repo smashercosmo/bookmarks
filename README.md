@@ -17,3 +17,8 @@
 - [react-hook-form - best library for handling forms in react apps](https://github.com/react-hook-form/react-hook-form)
 - [immer - de facto standard for immutability in js](https://github.com/immerjs/immer)
 - [react-query - de facto standard for data fetching in react apps](https://github.com/tannerlinsley/react-query)
+
+# Tools
+- [SVGOMG - SVG optimizer based on SVGO library](https://jakearchibald.github.io/svgomg/)
+- [Squoosh - best image optimizer](https://squoosh.app/)
+- [Wormhole - anonymous file sharing](https://wormhole.app/)
