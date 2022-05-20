@@ -12,11 +12,12 @@
 - CS 253 Web Security: [videos](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-), [slides and additional materials](https://web.stanford.edu/class/cs253/)
 - [Rust for JavaScript Developers](https://rustforjs.dev)
 
-# React libs
+# Libs
 - [fresnel - SSR friendly media queries](https://github.com/artsy/fresnel)
 - [react-hook-form - best library for handling forms in react apps](https://github.com/react-hook-form/react-hook-form)
 - [immer - de facto standard for immutability in js](https://github.com/immerjs/immer)
 - [react-query - de facto standard for data fetching in react apps](https://github.com/tannerlinsley/react-query)
+- [floating-ui - low-level solution for creating floating elements, like tooltips or popovers](https://github.com/floating-ui/floating-ui)
 
 # Tools
 - [SVGOMG - SVG optimizer based on SVGO library](https://jakearchibald.github.io/svgomg/)
