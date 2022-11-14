@@ -27,3 +27,9 @@
 
 # Solutions
 - [The only way that I know of to make responsive navigation menu with separators that wraps properly](https://codepen.io/smashercosmo/pen/jOZzjOR)
+
+# Build your own type of tutorials
+- [Build your own Babel](https://www.nan.fyi/tokenizer)
+- [Build your own React](https://pomb.us/build-your-own-react/)
+- [Build your own Svelte](https://www.youtube.com/watch?v=mwvyKGw2CzU)
+
