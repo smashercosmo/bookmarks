@@ -32,4 +32,5 @@
 - [Build your own Babel](https://www.nan.fyi/tokenizer)
 - [Build your own React](https://pomb.us/build-your-own-react/)
 - [Build your own Svelte](https://www.youtube.com/watch?v=mwvyKGw2CzU)
+- [Build your own Valtio](https://www.youtube.com/watch?v=uZnO2G8pqn0)
 
