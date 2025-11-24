@@ -4,6 +4,7 @@
 - [The GraphQL Guide](https://graphql.guide/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Just JavaScript](https://justjavascript.com/)
+- [WebAssembly from the Ground Up](https://wasmgroundup.com/)
 
 # Courses
 - [Serverless Visually Explained](https://serverless-visually-explained.com/)
@@ -19,6 +20,9 @@
 - [msw - de facto standard for mocking network requests](https://github.com/mswjs/msw)
 - [react-query - de facto standard for data fetching in react apps](https://github.com/tannerlinsley/react-query)
 - [floating-ui - low-level solution for creating floating elements, like tooltips or popovers](https://github.com/floating-ui/floating-ui)
+- [oxc - ESLint and Prettier successor](https://github.com/oxc-project/oxc)
+- [react-aria-components - the best UI library](https://react-spectrum.adobe.com/react-aria/components.html)
+- [UnoCSS - Instant On-demand Atomic CSS Engine](https://unocss.dev/)
 
 # Tools
 - [SVGOMG - SVG optimizer based on SVGO library](https://jakearchibald.github.io/svgomg/)
@@ -33,4 +37,8 @@
 - [Build your own React](https://pomb.us/build-your-own-react/)
 - [Build your own Svelte](https://www.youtube.com/watch?v=mwvyKGw2CzU)
 - [Build your own Valtio](https://www.youtube.com/watch?v=uZnO2G8pqn0)
+
+# Accessibility
+- [Tooltip components should not exist](https://tkdodo.eu/blog/tooltip-components-should-not-exist)
+- [GitHub is removing all toasts from their UI because of the accessibility and usability issues](https://primer.style/accessibility/toasts/)
 
