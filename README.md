@@ -38,6 +38,7 @@
 - [Build your own React](https://pomb.us/build-your-own-react/)
 - [Build your own Svelte](https://www.youtube.com/watch?v=mwvyKGw2CzU)
 - [Build your own Valtio](https://www.youtube.com/watch?v=uZnO2G8pqn0)
+- [Build your own X (collection of "build your own..." resources)](https://github.com/codecrafters-io/build-your-own-x)
 
 # Accessibility
 - [Tooltip components should not exist](https://tkdodo.eu/blog/tooltip-components-should-not-exist)
