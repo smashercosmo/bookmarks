@@ -24,6 +24,7 @@
 - [oxc - ESLint and Prettier successor](https://github.com/oxc-project/oxc)
 - [react-aria-components - the best UI library](https://react-spectrum.adobe.com/react-aria/components.html)
 - [UnoCSS - Instant On-demand Atomic CSS Engine](https://unocss.dev/)
+- [Shimmer From Structure - automatic sekeletons](https://github.com/darula-hpp/shimmer-from-structure)
 
 # Tools
 - [SVGOMG - SVG optimizer based on SVGO library](https://jakearchibald.github.io/svgomg/)
