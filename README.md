@@ -5,6 +5,7 @@
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Just JavaScript](https://justjavascript.com/)
 - [WebAssembly from the Ground Up](https://wasmgroundup.com/)
+- [Accessibility for Everyone](https://accessibilityforeveryone.site/)
 
 # Courses
 - [Serverless Visually Explained](https://serverless-visually-explained.com/)
