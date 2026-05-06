@@ -30,6 +30,7 @@
 - [SVGOMG - SVG optimizer based on SVGO library](https://jakearchibald.github.io/svgomg/)
 - [Squoosh - best image optimizer](https://squoosh.app/)
 - [Wormhole - anonymous file sharing](https://wormhole.app/)
+- [Portless - utility to run your local app on https](https://github.com/vercel-labs/portless)
 
 # Solutions
 - [The only way that I know of to make responsive navigation menu with separators that wraps properly](https://codepen.io/smashercosmo/pen/jOZzjOR)
