@@ -36,7 +36,8 @@
 
 # Solutions
 - [The only way that I know of to make responsive navigation menu with separators that wraps properly](https://codepen.io/smashercosmo/pen/jOZzjOR)
-
+- [The best dark mode toggle](https://lea.verou.me/blog/2026/dark-mode-toggles-2/)
+ 
 # Build your own type of tutorials
 - [Build your own Babel](https://www.nan.fyi/tokenizer)
 - [Build your own React](https://pomb.us/build-your-own-react/)
