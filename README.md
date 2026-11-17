@@ -49,3 +49,6 @@
 - [Tooltip components should not exist](https://tkdodo.eu/blog/tooltip-components-should-not-exist)
 - [GitHub is removing all toasts from their UI because of the accessibility and usability issues](https://primer.style/accessibility/toasts/)
 
+# AI
+- [Weird Git Trick That Makes Coding Agents More Effect-ive](https://effect.website/blog/the-one-weird-git-trick-that-makes-coding-agents-more-effect-ive)
+
